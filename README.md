@@ -16,6 +16,8 @@
 
 <img src="structure.png">
 
+# Links (Japanese)
 
-
+https://www.slideshare.net/RuoAndo/tcg-first-publicworkshopruoando
+https://www.slideshare.net/RuoAndo/css2009-ruo-ando
 
