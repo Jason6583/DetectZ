@@ -7,3 +7,7 @@
 # How it works...
 
 <img src="detectZ1.png">
+
+# What is it...
+
+<img src="filterManager2.png">
