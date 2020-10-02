@@ -11,3 +11,11 @@
 # What is it...
 
 <img src="filterManager2.png">
+
+# What is available for simple access control...
+
+<img src="structure.png">
+
+
+
+
