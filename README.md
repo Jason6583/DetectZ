@@ -1,4 +1,4 @@
-# DetectZ
+# DetectZ - Windows File System Filter Driver for simple access control
 
 # Where to work...
 
